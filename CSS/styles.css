@@ -1,0 +1,16 @@
+body{
+    background-color:#B9F3FC ;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted ;
+    border-color: grey ;
+    border-width: 6px;
+    width: 30%;
+}
+img{
+    height: 10cm;
+}
+h1,h2,h3{
+    color: aqua;
+}
